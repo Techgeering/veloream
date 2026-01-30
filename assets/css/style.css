@@ -231,70 +231,6 @@ body {
   }
 }
 
-@media (max-width: 575.98px) {
-  .cstm1 {
-    margin-left: 3.2rem;
-    margin-bottom: 3rem !important;
-  }
-
-  .sml-img {
-    width: 150px !important;
-    height: 150px !important;
-    bottom: -45px !important;
-    left: -25px !important;
-  }
-
-  .lrg-img {
-    width: 250px !important;
-    height: 250px !important;
-    margin-left: 1rem !important;
-  }
-}
-
-/* Tablet View: 576px - 991.98px */
-@media (min-width: 576px) and (max-width: 991.98px) {
-  .cstm1 {
-    margin-left: 5rem;
-    margin-bottom: 2rem !important;
-    justify-content: center;
-  }
-
-  .lrg-img {
-    width: 280px !important;
-    height: 280px !important;
-    margin-left: 1.5rem !important;
-  }
-
-  .sml-img {
-    width: 180px !important;
-    height: 180px !important;
-    bottom: -35px !important;
-    left: 4.5rem !important;
-  }
-}
-
-.cstm2 {
-  height: 20rem;
-  width: 100%;
-}
-
-.sml-img {
-  width: 250px;
-  height: 250px;
-  bottom: -45px;
-  left: -30px;
-}
-
-.lrg-img {
-  width: 330px;
-  height: 330px;
-  margin-left: 10rem;
-}
-
-.text-justify {
-  text-align: justify;
-}
-
 /* CTA Section */
 .custom-cta-section {
   background: linear-gradient(135deg, gold, grey);
@@ -565,44 +501,6 @@ body {
 }
 .testimonial-section img {
   object-fit: cover;
-}
-
-/* Barousel Brand logos */
-.brand-carousel {
-  height: 155px;
-}
-
-.brand-track {
-  width: max-content;
-  animation: scrollLeft 30s linear infinite;
-}
-
-.brand-item {
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid #e1b95a;
-}
-
-.brand-item img {
-  max-width: 100px;
-}
-
-@keyframes scrollLeft {
-  0% {
-    transform: translateX(0);
-  }
-
-  100% {
-    transform: translateX(-50%);
-  }
-}
-
-@media (max-width: 768px) {
-  .brand-carousel {
-    height: 150px;
-  }
 }
 
 /* Footer */
