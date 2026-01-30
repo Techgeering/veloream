@@ -1,0 +1,7 @@
+# robots.txt for Xartum
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://xartum.ch/sitemap.xml

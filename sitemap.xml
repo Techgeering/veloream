@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home -->
+  <url>
+    <loc>https://xartum.ch/</loc>
+    <lastmod>2025-08-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://xartum.ch/about</loc>
+    <lastmod>2025-08-21</lastmod>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Collections -->
+  <url>
+    <loc>https://xartum.ch/collections</loc>
+    <lastmod>2025-08-21</lastmod>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://xartum.ch/contact</loc>
+    <lastmod>2025-08-21</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://xartum.ch/privacy-policy</loc>
+    <lastmod>2025-08-21</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Terms & Conditions -->
+  <url>
+    <loc>https://xartum.ch/terms-conditions</loc>
+    <lastmod>2025-08-21</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+</urlset>
