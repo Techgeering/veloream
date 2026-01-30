@@ -142,24 +142,17 @@ body {
 .brandlogo {
   height: 9rem;
 }
-
 /* Hero Section */
 .home-hero {
   height: 100vh;
   width: 100%;
   position: relative;
   overflow: hidden;
-}
 
-.home-hero video {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 0;
+  background-image: url("../images/n5.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* Overlay */
@@ -169,7 +162,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
 
@@ -185,7 +178,7 @@ body {
 }
 
 .glass {
-  background: rgba(255, 255, 255, 4%);
+  background: rgba(255, 255, 255, 0.04);
   border-radius: 16px;
   padding: 20px;
 }
